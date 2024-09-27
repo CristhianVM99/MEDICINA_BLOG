@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "/assets/img/service/serviciotwo.png",
+        "title": "Atención Primaria y Preventiva",
+        "desp": "Los médicos de atención primaria se encargan de la prevención y diagnóstico temprano de enfermedades. Realizan chequeos regulares, vacunas y exámenes para detectar condiciones como diabetes, hipertensión y cáncer, ayudando a prevenir complicaciones graves y promoviendo hábitos saludables."
+    },
+    {
+        "id": 2,
+        "img": "/assets/img/service/servone.jpg",
+        "title": "Tratamiento de Enfermedades y Cirugías",
+        "desp": "A través de tratamientos médicos y quirúrgicos, los médicos abordan una amplia variedad de patologías. Desde intervenciones quirúrgicas menores hasta procedimientos complejos, este servicio garantiza que los pacientes reciban el tratamiento adecuado para restaurar su salud."
+    },
+    {
+        "id": 3,
+        "img": "/assets/img/service/servtwo.jpg",
+        "title": "Cuidado Maternoinfantil",
+        "desp": "Los médicos especializados en ginecología, obstetricia y pediatría brindan servicios para el cuidado de la madre y el niño. Esto incluye atención prenatal, asistencia durante el parto y cuidado neonatal, asegurando el bienestar de ambos en cada etapa del proceso."
+    },
+    {
+        "id": 4,
+        "img": "/assets/img/service/servthree.jpg",
+        "title": "Salud Mental y Apoyo Psicológic",
+        "desp": "La medicina también abarca el tratamiento de trastornos mentales y el apoyo psicológico a pacientes que enfrentan enfermedades crónicas o terminales. Servicios como la psiquiatría y la psicología clínica proporcionan herramientas para mejorar la salud mental y emocional de las personas.\n\n"
+    }
+]

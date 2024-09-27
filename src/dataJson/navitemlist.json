@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Principal",
+        "link": "/",
+        "key": "home"
+    },
+    {
+        "title": "Sobre Nosotros",
+        "link": "/about",
+        "key": "about"
+    },
+    {
+        "title": "Servicios",
+        "link": "/service",
+        "key": "service",
+        "childern": [
+            {
+                "title": "Service",
+                "link": "/service",
+                "key": "service1"
+            },
+            {
+                "title": "Service Two",
+                "link": "/service-two",
+                "key": "servicetwo"
+            }
+        ]
+    },
+    {
+        "title": "Blogs",
+        "link": "/blog",
+        "key": "blog"
+    }
+]
